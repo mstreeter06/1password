@@ -5,6 +5,7 @@ A small utility to generate CSV reports showing which users and groups have acce
 **Prerequisites:**
 - Python 3.8+ (run with `python3`)
 - 1Password CLI (`op`) installed and signed in. Install and get started: https://developer.1password.com/docs/cli/get-started/
+- Super Admin (Business Owner) permission in 1Password tenant
 
 **Script:**
 - `vault-user-group-access-report-updated.py` — main script (located in the same directory as this README).
