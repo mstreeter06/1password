@@ -44,12 +44,6 @@ This script is an updated version of a solution originally published by 1Passwor
 
 Please preserve attribution when re-using or redistributing significant portions of the original work — check the original repository for license details.
 
-**Maintainer / contact:**
-- Local file: [Matthew/vault-user-group-access-report-updated.py](Matthew/vault-user-group-access-report-updated.py)
-
-**Repository location:**
-- This copy will be stored at: https://github.com/mstreeter06/1password
-
 **Examples:**
 - Basic full run (writes per-vault CSVs, combined report, and logs):
 
